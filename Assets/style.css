@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+ * {
+    font-family: myFirstFont;
+ }
+ 
+body{
+    background-color: white;
+    color: black;
+    font-family: myFirstFont;
+    text-align: center;
+}
